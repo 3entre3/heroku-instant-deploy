@@ -6,9 +6,10 @@
   "success_url": "/",
   "keywords": ["locomotivecms", "rails", "ruby", "cms"],
   "addons": [
-    "ormongo",
+    "ormongo:2-mmap",
     "sendgrid"
   ],
+  "stack": "heroku-18",
   "env": {
     "BUNDLE_WITHOUT": {
       "description": "Don't change this value.",
