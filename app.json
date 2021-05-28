@@ -6,7 +6,7 @@
   "success_url": "/",
   "keywords": ["locomotivecms", "rails", "ruby", "cms"],
   "addons": [
-    "mongolab",
+    "ormongo",
     "sendgrid"
   ],
   "env": {
